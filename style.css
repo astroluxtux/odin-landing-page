@@ -1,0 +1,14 @@
+.menu-container {
+    background: #1f2937;
+}
+
+.menu {
+    display: flex;
+}
+
+.logo,
+.links {
+    color: #F9FAF8;
+    border: 1px solid red;
+}
+
