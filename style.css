@@ -29,3 +29,13 @@
     background: #1f2937;
     padding: 20px 0;
 }
+
+.hero {
+    display: flex;
+}
+
+.sign-up-section,
+.hero-image {
+    border: 1px solid whitesmoke;display:
+    flex: 1;
+}
