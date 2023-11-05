@@ -169,3 +169,15 @@
     font-size: 20px;
     color: #e5e7eb;
 }
+
+.footer-container {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 28px 0;
+}
+
+.copyright-text {
+    color: #F9FAF8;
+    font-size: 20px;
+}
