@@ -40,6 +40,7 @@
 .sign-up-section,
 .hero-image {
     border: 1px solid whitesmoke;
+    gap: 8px;
 }
 
 .text-heading {
@@ -49,5 +50,13 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
+.text-sub {
+    font-size: 18px;
+    color: #e5e7eb;
+}
 
+.button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
 
