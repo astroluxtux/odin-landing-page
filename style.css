@@ -63,7 +63,7 @@
     align-self: flex-start;
 }
 
-.sign-up-section {
+.sign-up-section-header {
     width: 25rem;
     display: flex;
     flex-direction: column;
@@ -138,4 +138,17 @@
     font-size: 24px;
 }
 
+.call-to-action-container {
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+}
 
+.sign-up-section-call {
+    background-color: #3882F6;
+    width: 45rem;
+    padding: 4rem 2rem;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-around;
+}
