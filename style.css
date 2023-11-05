@@ -40,7 +40,6 @@
 .sign-up-section,
 .hero-image {
     border: 1px solid whitesmoke;
-    gap: 8px;
 }
 
 .text-heading {
@@ -53,10 +52,25 @@
 .text-sub {
     font-size: 18px;
     color: #e5e7eb;
+    flex-wrap: wrap;
 }
 
 .button {
     background-color: #3882F6;
     color: #F9FAF8;
+    border-radius: 10px;
+    padding: 6px 20px;
+    align-self: flex-start;
+}
+
+.sign-up-section {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.hero-image {
+    width: 15rem;
 }
 
