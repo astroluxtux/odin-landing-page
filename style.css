@@ -12,7 +12,6 @@
 .logo,
 .links {
     color: #F9FAF8;
-    border: 1px solid red;
 }
 
 .logo {
@@ -31,7 +30,6 @@
 }
 
 .hero {
-    border: 1px solid #F9FAF8;
     padding: 40px 0;
     display: flex;
     justify-content: space-evenly;
@@ -93,7 +91,6 @@
 .img-gallery-two,
 .img-gallery-three,
 .img-gallery-four {
-    border: 1px solid black;
     display: flex;
     flex-direction: column;
 
@@ -117,11 +114,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.quote-section,
-.quoter {
-    border: 1px solid black;
 }
 
 .quote-section {
