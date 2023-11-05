@@ -75,3 +75,36 @@
     background-color: gray;
 }
 
+.info-header {
+    display: flex;
+    justify-content: center;
+}
+
+.total-img-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.img-gallery-one,
+.img-gallery-two,
+.img-gallery-three,
+.img-gallery-four {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.img-one,
+.img-two,
+.img-three,
+.img-four {
+    border: 4px solid dodgerblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    align-self: center;
+}
+
+
