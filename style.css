@@ -27,15 +27,27 @@
 
 .hero-container {
     background: #1f2937;
-    padding: 20px 0;
+    padding: 40px 0;
 }
 
 .hero {
+    border: 1px solid #F9FAF8;
+    padding: 40px 0;
     display: flex;
+    justify-content: space-evenly;
 }
 
 .sign-up-section,
 .hero-image {
-    border: 1px solid whitesmoke;display:
-    flex: 1;
+    border: 1px solid whitesmoke;
 }
+
+.text-heading {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
